@@ -1,3 +1,5 @@
 # gitskills
 have a test!
-master to see merger conflict!
+<<<<<<< HEAD
+master and other branch change a file and commit at the same time to see merger conflict!
+
